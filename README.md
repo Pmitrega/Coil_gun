@@ -1,1 +1,1 @@
-# Circular_gauss_accelerator
+# Coil gun
